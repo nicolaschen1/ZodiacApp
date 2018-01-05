@@ -16,9 +16,9 @@ The 12 animals are: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, 
 
 ## Screenshots
 
-![zodiac_image1](https://github.com/nicolaschen1/ZodiacApp/blob/master/images/zodiacapp1.PNG)
-![zodiac_image2](https://github.com/nicolaschen1/ZodiacApp/blob/master/images/zodiacapp2.PNG)
-![zodiac_image3](https://github.com/nicolaschen1/ZodiacApp/blob/master/images/zodiacapp3.PNG)
+![zodiac_image1](https://github.com/nicolaschen1/ZodiacApp/blob/master/screenshots/zodiacapp1.PNG)
+![zodiac_image2](https://github.com/nicolaschen1/ZodiacApp/blob/master/screenshots/zodiacapp2.PNG)
+![zodiac_image3](https://github.com/nicolaschen1/ZodiacApp/blob/master/screenshots/zodiacapp3.PNG)
 
 ## Author
 Nicolas Chen
